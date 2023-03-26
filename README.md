@@ -42,7 +42,7 @@ The models were trained using k-fold cross-validation, and the results show that
 ![image](https://user-images.githubusercontent.com/121663706/227762645-f0452d07-a6cd-4e59-84ea-bc5ca7e1ae72.png)
 
 As seen from the below prediction result, it can be seen that with GradCam, it provides visual explanations to indicate which parts of the input image are contributing to the prediction. 
-This can be helpful to diagnose why the CNN yield the incorrect result for further improvement by identifying which regions of the image the CNN is attending to and potentially adjusting the model or input accordingly.
 
 ![image](https://user-images.githubusercontent.com/121663706/227762657-0627641a-f5cf-4ac1-ac46-02d480f83895.png)
 
+This can be helpful to diagnose why the CNN yield the incorrect result for further improvement by identifying which regions of the image the CNN is attending to and potentially adjusting the model or input accordingly.
